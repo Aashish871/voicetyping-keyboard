@@ -1,0 +1,8 @@
+torch
+openai-whisper
+pyaudio
+keyboard
+pynput
+numpy
+PyQt6
+sounddevice
